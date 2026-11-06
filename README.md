@@ -16,13 +16,15 @@ The result is a Firebase-backed application that brings everyday operations into
 
 A look inside the application I built to simplify everyday operations for our family-run business.
 
-![Vaidann Application Dashboard](assets/vaidann-preview.png)
+<img width="1440" height="900" alt="Screenshot 2026-11-06 at 10 30 02 AM" src="https://github.com/user-attachments/assets/47a57a21-5ec9-446e-a93f-22b45d107629" />
 
 ### 🎥 Full Application Walkthrough
 
 Watch me demonstrate how Vaidann works, from creating orders and managing customer records to tracking payments and reviewing business activity.
 
-https://github.com/user-attachments/assets/REPLACE_WITH_YOUR_VIDEO_ID
+
+https://github.com/user-attachments/assets/ef5228ed-ab89-4d66-a6bc-4f46835f2581
+
 
 *An end-to-end walkthrough of the application, explained by me.*
 
